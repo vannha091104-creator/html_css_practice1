@@ -47,11 +47,11 @@ This document provides information about HTML/CSS Practice 1.
 | Apr 21, 2026 | Setup project | 4 | - | | |
 | Apr 22, 2026 – Apr 23, 2026 | Header section | 6 | - | | |
 | Apr 22, 2026 – Apr 23, 2026 | Shop by Category section | 2 | - | | |
-| Apr 24, 2026 | New Arrivals section | 4 | - | | |
-| Apr 28, 2026 | Best Selling Books section | 4 | - | | |
-| Apr 29, 2026 | Deal of the Day section | 4 | - | | |
-| May 4, 2026 | "Why Shop with Us?" section | 4 | - | | |
-| May 5, 2026 | Join News Letter section | 2 | - | | |
-| May 5, 2026 | Footer section | 2 | - | | |
-| May 6, 2026 | Edit and finalize the website (Test) | 3 | - | | |
-| May 6, 2026 | Get feedback from the mentor and supporter | 1 | - | | |
+| May 4, 2026 | New Arrivals section | 4 | - | | |
+| May 5, 2026 | Best Selling Books section | 4 | - | | |
+| May 6, 2026 | Deal of the Day section | 4 | - | | |
+| May 7, 2026 | "Why Shop with Us?" section | 4 | - | | |
+| May 8, 2026 | Join News Letter section | 2 | - | | |
+| May 8, 2026 | Footer section | 2 | - | | |
+| May 11, 2026 | Edit and finalize the website (Test) | 3 | - | | |
+| May 11, 2026 | Get feedback from the mentor and supporter | 1 | - | | |
